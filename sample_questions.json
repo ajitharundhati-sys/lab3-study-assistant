@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "topic": "Python Functions",
+    "question": "What is the difference between printing a value and returning a value from a function?"
+  },
+  {
+    "id": 2,
+    "topic": "JSON",
+    "question": "Why is JSON useful for storing and exchanging structured data?"
+  },
+  {
+    "id": 3,
+    "topic": "Git Commits",
+    "question": "What makes a Git commit small, logical and meaningful?"
+  },
+  {
+    "id": 4,
+    "topic": "Git Branches",
+    "question": "Why is it useful to develop a new feature on a separate branch?"
+  },
+  {
+    "id": 5,
+    "topic": "Prompt Design",
+    "question": "How can additional context improve the quality of an LLM prompt?"
+  },
+  {
+    "id": 6,
+    "topic": "Error Handling",
+    "question": "Why should an application handle missing or invalid files without crashing?"
+  }
+]

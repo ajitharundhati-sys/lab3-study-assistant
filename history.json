@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-08-09T15:37:59",
+    "topic": "Python Functions",
+    "question": "What is the difference between printing a value and returning a value from a function?",
+    "notes": "return sends a value back"
+  },
+  {
+    "timestamp": "2026-08-09T15:46:07",
+    "topic": "Python Functions",
+    "question": "What is the difference between printing a value and returning a value from a function?",
+    "notes": "Printing displays a value immediately, while returning sends a value back so another part of the program can use it."
+  },
+  {
+    "timestamp": "2026-08-09T15:49:55",
+    "topic": "Prompt Design",
+    "question": "How can additional context improve the quality of an LLM prompt?",
+    "notes": "Printing displays a value immediately, while returning sends a value back so another part of the program can use it."
+  },
+  {
+    "timestamp": "2026-08-09T15:56:07",
+    "topic": "Error Handling",
+    "question": "Why should an application handle missing or invalid files without crashing?",
+    "notes": "Handling missing or invalid files is important to prevent application crashes and ensure a smooth user experience. It allows the program to handle errors gracefully using exception handling and provide meaningful feedback instead of terminating unexpectedly."
+  },
+  {
+    "timestamp": "2026-08-09T16:03:29",
+    "topic": "Error Handling",
+    "question": "Why should an application handle missing or invalid files without crashing?",
+    "notes": "Handling missing or invalid files is important to prevent application crashes and ensure a smooth user experience. It allows the program to handle errors gracefully using exception handling and provide meaningful feedback instead of terminating unexpectedly."
+  },
+  {
+    "timestamp": "2026-08-09T16:25:20",
+    "topic": "Error Handling",
+    "question": "Why should an application handle missing or invalid files without crashing?",
+    "notes": "Error handling prevents crashes and ensures the program runs smoothly even when unexpected input or missing files occur."
+  }
+]
