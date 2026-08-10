@@ -1,61 +1,84 @@
-# AI Study Assistant
+\# AI Study Assistant
 
-**Student Name:** TODO  
-**Roll Number:** TODO  
 
-## Project Overview
 
-TODO: Briefly explain the purpose of the completed AI Study Assistant.
+\## 📌 Project Overview
 
-## Implemented Features
+This is a CLI-based AI Study Assistant developed using Python.  
 
-TODO: Replace this section with a concise list of the features you completed.
+The application allows users to practice questions, record study sessions, search previous entries, and export sessions.
 
-## Project Structure
 
-```text
-study_assistant/
-├── study_assistant.py
-├── prompts.py
-├── history.py
-├── config.py
-├── sample_questions.json
-├── requirements.txt
-├── README.md
-└── .env.example
-```
 
-## Installation and Setup
+\---
 
-TODO: Explain how to create and activate a virtual environment.
 
-TODO: Explain how to install the required dependencies.
 
-## Running the Application
+\## ⚙️ Features
 
-TODO: Add the command used to run the program.
+\- Start a study session  
 
-## Generated Files
+\- View study history  
 
-The completed application may generate:
+\- Search study history  
 
-- `history.json`
-- an `exports/` directory containing Markdown files
+\- Export a study session to file  
 
-TODO: Explain whether these generated files should be tracked by Git.
+\- Recent activity display  
 
-## Version Summary
 
-### Version 1
 
-TODO: Summarise the core functionality included in Version 1.
+\---
 
-### Version 2
 
-TODO: Summarise the enhancements included in Version 2.
 
-## Notes
+\## 🛠️ Technologies Used
 
-- Do not include real API keys, passwords or access tokens.
-- Complete the milestones in order.
-- Maintain a meaningful Git history throughout development.
+\- Python
+
+\- JSON (for data storage)
+
+\- CLI (Command Line Interface)
+
+
+
+\---
+
+
+
+\## 📂 Project Structure
+
+study\_assistant/
+
+├── study\_assistant.py  
+
+├── history.py  
+
+├── config.py  
+
+├── prompts.py  
+
+├── sample\_questions.json  
+
+├── README.md  
+
+
+
+\---
+
+
+
+\## ▶️ How to Run
+
+
+
+\### Step 1: Open terminal
+
+Navigate to project folder:
+
+
+
+```bash
+
+cd study\_assistant
+
